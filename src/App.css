@@ -1,0 +1,10 @@
+.bdr{
+    border: 3px solid hsl(217, 16%, 45%);
+}
+
+.score-text{
+    color: hsl(229, 64%, 46%);
+}
+.outline{
+    color: hsl(217, 16%, 45%);
+}

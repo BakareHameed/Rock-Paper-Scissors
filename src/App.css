@@ -8,3 +8,37 @@
 .outline{
     color: hsl(217, 16%, 45%);
 }
+
+.home{
+    gap: 10rem;
+}
+
+.hands{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 20px solid;
+}
+
+.rock{
+    position: relative;
+    top: 7rem;
+    right: 9rem;
+}
+.paper{
+    position: relative;
+    bottom: 7rem;
+    left: 2rem;
+}
+.scissors{
+    position: relative;
+    bottom: 7rem;
+    left: 7rem;
+}
+
+button{
+    border: 2px solid white;
+}

@@ -1,9 +1,10 @@
 import React from 'react'
 import Home from './Home'
+import Rules from './Rules'
 
 const App = () => {
   return (
-    <div><Home/></div>
+    <div><Rules/></div>
   )
 }
 

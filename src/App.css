@@ -42,3 +42,7 @@
 button{
     border: 2px solid white;
 }
+/* added a dark color theme */
+.dark.text{
+    color: hsl(229, 25%, 31%);
+}
